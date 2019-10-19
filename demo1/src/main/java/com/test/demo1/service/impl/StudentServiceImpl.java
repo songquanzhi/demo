@@ -1,8 +1,8 @@
-package service.impl;
+package com.test.demo1.service.impl;
 
-import bean.Student;
+import com.test.demo1.bean.Student;
 import org.springframework.stereotype.Service;
-import service.StudentService;
+import com.test.demo1.service.StudentService;
 
 import java.util.ArrayList;
 import java.util.List;

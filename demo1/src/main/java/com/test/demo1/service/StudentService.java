@@ -1,7 +1,7 @@
-package service;
+package com.test.demo1.service;
 
 
-import bean.Student;
+import com.test.demo1.bean.Student;
 
 import java.util.List;
 
