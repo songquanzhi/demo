@@ -1,8 +1,4 @@
-server:
-  port: 8002
 spring:
-  application:
-  name: spring-cloud-config-server
   datasource:
     url: jdbc:mysql://101.37.169.26:3305/bt_test?serverTimezone=CST&useUnicode=true&characterEncoding=UTF-8
     username: hzcs_admin
